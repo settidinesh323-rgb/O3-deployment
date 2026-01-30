@@ -1,3 +1,4 @@
+# O3-deployment
 # EKS Monitoring Infrastructure
 
 Complete Terraform infrastructure for AWS EKS with Prometheus and Grafana monitoring stack.
